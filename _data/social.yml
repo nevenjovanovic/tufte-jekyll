@@ -1,10 +1,6 @@
-- link: //www.twitter.com/twitter_handle 
-  icon: icon-twitter
-- link: //plus.google.com/+googlePlusName 
+- link: http://plus.google.com/+NevenJovanović
   icon: icon-googleplus
-- link: //github.com/GithubHandle 
+- link: http://github.com/nevenjovanovic
   icon: icon-github
-- link: //www.flickr.com/photos/FlickrUserID 
-  icon: icon-flickr
-- link: /feed 
+- link: /feed.xml
   icon: icon-feed

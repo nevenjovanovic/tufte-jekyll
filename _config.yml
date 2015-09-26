@@ -1,17 +1,18 @@
 baseurl: 
-title: Tufte
-subtitle: Content-centric blogging
-author: clay harmon
+title: Nulla dies sine linea
+subtitle: Dnevnik i razmišljanja
+author: Neven Jovanovic
+url: /
 simple_search: http://google.com/search
-description: A Jekyll theme for content-rich sites
-name: tufte
+description: Bilješke o svemu i svačemu, probno
+name: bilješke
 markdown: Kramdown
 kramdown:  
   input: GFM
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
 permalink: /articles/:short_year/:title
-timezone: America/New_York
+timezone: Central European Time / Zagreb
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 post:
@@ -20,7 +21,7 @@ post:
 page:
   template: _page.txt
   extension: md
-editor: gvim
+editor: nano
 git:
   branch: master
 transfer:
