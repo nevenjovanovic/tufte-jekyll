@@ -1,7 +1,9 @@
 ---
 layout: post
-title: About
+title: O ovoj stranici
 ---
+
+Nekoliko *podataka* o tome što se ovdje nalazi, i [zašto](http://www.ffzg.unizg.hr/klafil)
 
 The *Tufte-Jekyll* theme is a natural extension of the work done by [Dave Leipmann](https://github.com/daveliepmann/tufte-css) on Github that created a CSS file that allows web writers to use the simple and elegant style employed by Edward Tufte in his published materials.
 
